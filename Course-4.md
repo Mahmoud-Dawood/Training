@@ -52,8 +52,7 @@
 
 ### Course Outcomes:
 * By the end of this course you should be able to:
-* Understand the need for effective code structure
-* Produce effective code in HTML5 and CSS3
-* Understand web design for multiple devices
-* Understand the suitability of media assets in mobile context
-* Test code and structure effectively
+ * Understand the need for effective structure.
+ * Produce effective HTML5 and CSS3.
+ * Understand web design for multiple devices.
+ * Understand the suitability of media assets in mobile context.
